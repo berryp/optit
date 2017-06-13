@@ -1,1 +1,2 @@
-# Rough Python image optimiser example
+# Rough Python image resizer service example
+
