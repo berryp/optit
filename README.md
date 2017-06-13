@@ -1,1 +1,1 @@
-# Rough image optimiser example
+# Rough Python image optimiser example

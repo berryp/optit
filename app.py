@@ -8,10 +8,6 @@ app = Flask(__name__, static_url_path='')
 IMAGES_ROOT = 'images'
 
 
-def has_image(name):
-    return os.path.isfile(os.path.join(IMAGES_ROOT, name))
-
-
 def round_up(num):
     return int(math.ceil(num / 10.0)) * 10
 
